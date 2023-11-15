@@ -1,0 +1,10 @@
+body {
+    background-color: orange;
+}
+body * {
+    font-size: 100px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
